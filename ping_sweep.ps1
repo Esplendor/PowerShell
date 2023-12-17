@@ -9,3 +9,5 @@ $res.Line.split(' ')[2] -replace ":",""
 } catch {}
 }
 }
+
+#Try and Catch is equal 2 > /dev/null in Linux. For error catch.
